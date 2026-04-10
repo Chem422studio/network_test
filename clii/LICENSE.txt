@@ -1,0 +1,2 @@
+This software uses SFML (Simple and Fast Multimedia Library)
+Copyright (C) Laurent Gomila and contributors
